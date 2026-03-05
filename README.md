@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Production Planning with the help of Integer Programming<br>👯 I’m looking to collaborate on any AI/ML/DS projects.<br>🤝 I’m looking for help with my current ongoing project.<br>🌱 I’m currently learning about AI and Machine Learning.<br> 
+🔭 I’m currently working on AI policy impact analyzer<br>👯 I’m looking to collaborate on any AI/ML/DS projects.<br>🤝 I’m looking for help with my current ongoing project.<br>🌱 I’m currently learning about AI and Machine Learning.<br> 
 
 
 ## 🌐 Socials:
